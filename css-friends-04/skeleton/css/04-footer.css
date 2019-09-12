@@ -1,0 +1,18 @@
+/* PHASE 4: Footer */
+
+.footers {
+  display: flex; 
+  flex-direction: column; 
+  justify-content: flex-end; 
+  
+}
+
+.footer-section { 
+  background-color: white;
+  border-right: 1px solid #ccc; 
+  border-left: 1px solid #ccc; 
+  border-bottom: 1px solid #ccc; 
+  margin-right: 189px; 
+  margin-left: 189px;
+  height: 100px;
+}
